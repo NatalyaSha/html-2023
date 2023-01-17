@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d306020-8443-499f-9ec7-b1bf841ef2be" name="Changes" comment="a href">
+    <list default="true" id="3d306020-8443-499f-9ec7-b1bf841ef2be" name="Changes" comment="stil1">
+      <change afterPath="$PROJECT_DIR$/lesson1/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1/index.html" afterDir="false" />
     </list>
@@ -17,6 +18,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -40,6 +42,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -55,7 +58,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673987109532</updated>
-      <workItem from="1673987110768" duration="7563000" />
+      <workItem from="1673987110768" duration="9452000" />
     </task>
     <task id="LOCAL-00001" summary="a href">
       <created>1673994053876</created>
@@ -64,7 +67,21 @@
       <option name="project" value="LOCAL" />
       <updated>1673994053876</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="stil">
+      <created>1673994842499</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673994842499</updated>
+    </task>
+    <task id="LOCAL-00003" summary="stil1">
+      <created>1673994982723</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1673994982723</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -72,6 +89,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="a href" />
-    <option name="LAST_COMMIT_MESSAGE" value="a href" />
+    <MESSAGE value="stil" />
+    <MESSAGE value="stil1" />
+    <option name="LAST_COMMIT_MESSAGE" value="stil1" />
   </component>
 </project>
