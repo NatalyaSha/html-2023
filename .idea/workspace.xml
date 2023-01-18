@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d306020-8443-499f-9ec7-b1bf841ef2be" name="Changes" comment="stil21" />
+    <list default="true" id="3d306020-8443-499f-9ec7-b1bf841ef2be" name="Changes" comment="stil211" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,7 +56,7 @@
       <updated>1673987109532</updated>
       <workItem from="1673987110768" duration="9776000" />
       <workItem from="1673997060550" duration="31000" />
-      <workItem from="1674023835355" duration="339000" />
+      <workItem from="1674023835355" duration="1293000" />
     </task>
     <task id="LOCAL-00001" summary="a href">
       <created>1673994053876</created>
@@ -93,7 +93,21 @@
       <option name="project" value="LOCAL" />
       <updated>1674024096481</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="stil211">
+      <created>1674025136801</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1674025136801</updated>
+    </task>
+    <task id="LOCAL-00007" summary="stil211">
+      <created>1674025175422</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1674025175422</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,6 +119,7 @@
     <MESSAGE value="stil1" />
     <MESSAGE value="stil2" />
     <MESSAGE value="stil21" />
-    <option name="LAST_COMMIT_MESSAGE" value="stil21" />
+    <MESSAGE value="stil211" />
+    <option name="LAST_COMMIT_MESSAGE" value="stil211" />
   </component>
 </project>
