@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d306020-8443-499f-9ec7-b1bf841ef2be" name="Changes" comment="stil2111" />
+    <list default="true" id="3d306020-8443-499f-9ec7-b1bf841ef2be" name="Changes" comment="stil2111">
+      <change afterPath="$PROJECT_DIR$/lesson2/blueblocks.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2/index cards.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2/main2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2/maincards.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,6 +63,11 @@
       <workItem from="1673987110768" duration="9776000" />
       <workItem from="1673997060550" duration="31000" />
       <workItem from="1674023835355" duration="1532000" />
+      <workItem from="1674033198309" duration="1569000" />
+      <workItem from="1674064888896" duration="31000" />
+      <workItem from="1674066208661" duration="830000" />
+      <workItem from="1674154702223" duration="75000" />
+      <workItem from="1674302209743" duration="21695000" />
     </task>
     <task id="LOCAL-00001" summary="a href">
       <created>1673994053876</created>
@@ -114,11 +125,29 @@
       <option name="project" value="LOCAL" />
       <updated>1674025423558</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="stil2111">
+      <created>1674033218576</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1674033218576</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="a href" />
