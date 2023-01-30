@@ -4,14 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d306020-8443-499f-9ec7-b1bf841ef2be" name="Changes" comment="stil2111">
-      <change afterPath="$PROJECT_DIR$/lesson3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/main3.css" afterDir="false" />
+    <list default="true" id="3d306020-8443-499f-9ec7-b1bf841ef2be" name="Changes" comment="lesson3">
+      <change afterPath="$PROJECT_DIR$/lesson2/plus.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2/plus.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/part1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/part1/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/part1/media.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/part2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/part2/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/part2/media.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson2/index cards.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/index cards.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson2/indexblueblocks.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/indexblueblocks.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson2/main2.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/main2.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson2/maincards.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/maincards.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3/main2.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/main2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3/main3.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/main3.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +62,12 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lesson4/part2" />
+      <recent name="$PROJECT_DIR$/lesson4/part1" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -71,6 +85,12 @@
       <workItem from="1674154702223" duration="75000" />
       <workItem from="1674302209743" duration="22148000" />
       <workItem from="1674551598944" duration="11720000" />
+      <workItem from="1674636854306" duration="9184000" />
+      <workItem from="1674650360941" duration="6174000" />
+      <workItem from="1674669312525" duration="783000" />
+      <workItem from="1674917023003" duration="342000" />
+      <workItem from="1674917397487" duration="9715000" />
+      <workItem from="1675066768526" duration="3500000" />
     </task>
     <task id="LOCAL-00001" summary="a href">
       <created>1673994053876</created>
@@ -142,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674474242391</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="lesson3">
+      <created>1674649079588</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1674649079588</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,6 +194,7 @@
     <MESSAGE value="stil21" />
     <MESSAGE value="stil211" />
     <MESSAGE value="stil2111" />
-    <option name="LAST_COMMIT_MESSAGE" value="stil2111" />
+    <MESSAGE value="lesson3" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson3" />
   </component>
 </project>

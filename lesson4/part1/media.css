@@ -1,0 +1,20 @@
+@media  screen and (min-width: 0px) and (max-width: 700px) {
+    .boxa {
+        height: 10%;
+        row-gap: 10px;
+    }
+    .container {
+        flex-direction: column;
+        row-gap: 10px;
+    }
+    .boxb {
+        height: 80%;
+        width: 100%;
+    }
+    .boxc {
+        height: 10%;
+        width: 100%;
+    }
+
+    
+}

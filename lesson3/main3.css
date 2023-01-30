@@ -23,12 +23,7 @@ body {
     align-items: center;
     justify-content: space-around;
     flex-direction: column;
-
-
-
-
-
-
+    
 }
 p{
     text-align: center;
@@ -44,6 +39,7 @@ button{
     width: 10%;
     height: 10%;
     border: 2px solid black;
+    border-radius: 50%;
     position: absolute;
     top: 30px;
     background: white;

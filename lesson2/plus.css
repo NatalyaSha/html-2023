@@ -1,0 +1,89 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.container {
+    width: 100%;
+    height: 100vh;
+    background: aqua;
+    display: flex;
+    align-items: center;
+    /*column-gap: 3%;*/
+    /*margin: 3px;*/
+    justify-content: space-between;
+
+
+}
+.target {
+    position: absolute;
+    top: 220px;
+    font-size: 30px;
+
+
+}
+.one {
+    border: 2px solid black;
+    width: 70%;
+    height: 40%;
+    background: antiquewhite;
+    margin: 3px;
+
+
+}
+.two {
+    border: 2px solid black;
+    width: 70%;
+    height: 40%;
+    background: antiquewhite;
+    margin: 3px;
+
+}
+.three{
+    border: 2px solid black;
+    width: 70%;
+    height: 40%;
+    background: antiquewhite;
+    margin: 3px;
+}
+.four {
+    border: 2px solid black;
+    width: 70%;
+    height: 40%;
+    background: antiquewhite;
+    margin: 3px;
+}
+.five {
+    border: 2px solid black;
+    width: 70%;
+    height: 40%;
+    background: antiquewhite;
+    margin: 3px;
+}
+.six {
+    border: 2px solid black;
+    width: 70%;
+    height: 40%;
+    background: antiquewhite;
+    margin: 3px;
+}
+h3, p {
+    text-align: center;
+}
+.boxone {
+    width: 50%;
+    height: 50%;
+    /*flex-direction: column;*/
+    /*display: flex;*/
+    /*align-items: center;*/
+    /*justify-content: center;*/
+
+}
+.boxtwo {
+    width: 50%;
+    height: 50%;
+    /*flex-direction: column;  */
+    /*display: flex;*/
+    /*align-items: center;*/
+    /*justify-content: center;*/
+
+}
